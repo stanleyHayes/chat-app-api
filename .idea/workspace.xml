@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5851ef-9b99-4cd2-8a98-74083ec066c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +59,17 @@
       <option name="presentableId" value="Default" />
       <updated>1599502706386</updated>
       <workItem from="1599502708217" duration="3062000" />
-      <workItem from="1599508429609" duration="9112000" />
+      <workItem from="1599508429609" duration="10371000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="359" width="818" height="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599647852812">
+      <screen x="72" y="37" width="1848" height="1043" />
+    </state>
+    <state x="582" y="359" width="818" height="405" key="#com.intellij.fileTypes.FileTypeChooser/72.37.1848.1043@72.37.1848.1043" timestamp="1599647852812" />
   </component>
 </project>
